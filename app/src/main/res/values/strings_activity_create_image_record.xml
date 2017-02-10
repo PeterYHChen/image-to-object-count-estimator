@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_create_image_record">Edit</string>
+
+    <string-array name="object_type_array">
+        <item>Blueberry</item>
+        <item>Log</item>
+        <item>Coin</item>
+    </string-array>
+
+</resources>

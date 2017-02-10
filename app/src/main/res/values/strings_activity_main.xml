@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="title_activity_main_tab">Estimage</string>
+
+    <string name="action_settings">Settings</string>
+    <string name ="title_section1">Home</string>
+    <string name ="title_section2">Images</string>
+    <string name ="title_section3">tab3</string>
+</resources>
