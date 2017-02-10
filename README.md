@@ -1,7 +1,15 @@
 # Image To Object Count Estimator
 
 ## Description
-[](honors_thesis.pdf)
+We develop a smartphone application for the Android platform with access to a cloud-based machine learning (ML) service that can estimate the amount of crop on a bush or tree from an image. The development of an image-to-object-
+count estimation system called Estimage is presented. The Estimage system consists
+of an Android client application for user interaction, a PHP server application for
+request handling, an Octave program for image normalization, and an open-source
+ML software package called ilastik that applies a predictive model to an image. The
+functionality of the mobile client application is tested and the system satisfies all of
+the functional requirements and most of the non-functional requirements. The system
+is tested on the images of coins on a table, logs stacked in a pile, and blueberries on
+the bush. Other detail information is in my [thesis](honors_thesis.pdf).
 
 ## Introduction to Use
 
