@@ -1,10 +1,17 @@
 # Image To Object Count Estimator
+
+## Description
+[](honors_thesis.pdf)
+
+## Introduction to Use
+
 This Android application has two interfaces to start with. 
 
 The HOME interface allows users to create an image record by taking a picture with camera or picking an image from local directory.
 
 The IMAGES interface shows up a list of image records that users created previously, and each item displays title, creation date and estimation status.
-We also can start an estimation on any image via the start button of each image record on the right.
+
+We also can start an estimation on any image via the start button of each image record on the right. Once started, the selected image will be sent to the PHP server and be estimated by a pre-trained machine learning predictive model.
 
 <img src="screenshots/implement_interface_home.png" width="250">
 <img src="screenshots/implement_interface_image_repository.png" width="250">
